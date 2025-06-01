@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "io.github.AdelinaM17n.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "indz.refmap.json",
+  "mixins": [
+    "MixinZombie"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
